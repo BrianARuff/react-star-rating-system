@@ -1,6 +1,6 @@
 {
   "name": "react-star-rating-system",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Star rating system written in react.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

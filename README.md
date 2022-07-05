@@ -1,6 +1,6 @@
 React Star Rating System Docs
 
-   * Component Name: StarList
+   * Component Name: StarRatingSystem
    * Component Interface:
       *  hoverColor: string; // yellow
       *  clickColor: string; // gold
@@ -107,7 +107,7 @@ export default function App() {
     <>
       <h1>Title: {data?.title as string}</h1>
       <p>ID: {data?.id}</p>
-      <StarList
+      <StarRatingSystem
         defaultRating={rating}
         isCustomSubmit={isCustomSubmit}
         customSubmit={customSubmit}
