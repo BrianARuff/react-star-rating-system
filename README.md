@@ -1,4 +1,14 @@
-React Star Rating System Docs
+##  NPM Link
+[React Star Rating System](https://www.npmjs.com/package/react-star-rating-system)
+
+## App Description
+Created and published a reusable star rating voting system package using ReactJS, available through NPM
+for other developers to easily integrate into their web projects. The package includes customizable hover and
+on-click events, providing a seamless user experience. Developers can retrieve and display the ratings in a
+variety of ways, making it a versatile and useful tool for any web project that requires a rating feature.
+
+
+## React Star Rating System Docs
 
    * Component Name: StarRatingSystem
    * Component Interface:
